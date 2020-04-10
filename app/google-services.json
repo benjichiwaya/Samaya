@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427202617799",
+    "firebase_url": "https://samaya-d41c4.firebaseio.com",
+    "project_id": "samaya-d41c4",
+    "storage_bucket": "samaya-d41c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427202617799:android:0e63f8973faf6518b739e2",
+        "android_client_info": {
+          "package_name": "benji.chiwaya.samaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427202617799-b5v3nlrtigg8kc6d8rc9l3pfk8ivvv76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "benji.chiwaya.samaya",
+            "certificate_hash": "94c0e8f1f022bdacf68eaed2315ae5d99d9f210a"
+          }
+        },
+        {
+          "client_id": "427202617799-q79n6nnbokqijd6jtqujilfomr7306ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweE5Oop1fU_0nKIacvf7O6JywHuBGBcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427202617799-q79n6nnbokqijd6jtqujilfomr7306ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
